@@ -172,10 +172,10 @@ meta_common_description: &meta_info $site_brand is a place where Mr Brij writes 
 
 auto_content:
   title: Brij Sample post (auto generated)
-  greeting: Hello Brij!
+  greeting: Hello Hive Minds!
   text: *meta_info
-  more_info: Learn More Brij.
-  auto_generated_text: Brij This is an auto generated sample content for display in the selected language.
+  more_info: Learn More.
+  auto_generated_text: I am QA by Profession and Quality Enthusiast by choice, currently working in Thoughtworks India. 
 
 cookie_consent:
   privacy_policy_link_text: *privacy_policy_title
