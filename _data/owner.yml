@@ -2,10 +2,10 @@
 # Owner's Personal Information
 ###########################################################
 # This is your brand name
-brand: "Your Brand"
+brand: "Mr. Brij"
 
 # used for seo meta post author (if it's not defined in post)
-name: "Your Name"
+name: "Brijendra Singh"
 
 # if you don't want to add copyright year, comment or leave it blank.
 # the year during which the claimed copyright for the work was first asserted.
@@ -29,9 +29,9 @@ creative_commons:
 # the order of the items will be shown as here.
 # comment to remove any contact item
 contacts:
-  #- github: ""
-  #- email: ""
-  #- linkedin: ""
+  - github: "brijendrasingh"
+  - email: "bps.brijendra@gmail.com"
+  - linkedin: "brijendra-singh-56658b17"
   #- twitter: ""
   #- instagram: ""
   #- youtube: ""
@@ -40,7 +40,7 @@ contacts:
 #  - your_new_contact: ""
 
 # Disqus Short name, make sure comments and disqus are enabled in _data/conf/posts.yml file
-disqus_shortname: ""
+disqus_shortname: "prafast"
 
 # if no id is provided, this feature will be disabled.
 # make sure your environment does not match with google.analytics.ignore in _data/conf/main.yml
