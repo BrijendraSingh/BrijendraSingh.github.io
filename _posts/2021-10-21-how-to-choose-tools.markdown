@@ -1,5 +1,5 @@
 ---
-title: A Tale of 2 teams: Automation Testing Tool Selection
+title: A Tale of 2 teams
 author: Brijendra Singh
 category: test automation
 tags: [tools, test automation, tools selection ]
@@ -7,6 +7,8 @@ img: ":post_pic_tools_selection.jpg"
 date: 2021-10-21 08:11:06 +0900
 meta_description: "meta TBU"
 ---
+> Finding right tool for automation testing is very crucial. Wrong selection of tool may cause trouble and can also result of rework and limitations. 
+
 ## How do you choose a tool ?
 
 ## Things that should really matter
