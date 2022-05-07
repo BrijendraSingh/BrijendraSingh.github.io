@@ -171,11 +171,11 @@ privacy-policy:
 meta_common_description: &meta_info $site_brand is a place where Mr Brij writes his experiences of software testing.
 
 auto_content:
-  title: Brij Sample post (auto generated)
-  greeting: Hello Hive Minds!
+  title: Bps auto post
+  greeting: Hello hive mind
   text: *meta_info
   more_info: Learn More.
-  auto_generated_text: I am QA by Profession and Quality Enthusiast by choice, currently working in Thoughtworks India. 
+  auto_generated_text: Quality Analyst by Profession and Quality Enthusiast by choice, currently working in Thoughtworks India. 
 
 cookie_consent:
   privacy_policy_link_text: *privacy_policy_title
