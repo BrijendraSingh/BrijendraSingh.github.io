@@ -7,7 +7,7 @@ date: 2022-05-07 08:11:06 +0900
 meta_description: "How we can build a Mobile test Strategy to cover all possible aspects of mobile devices specific conditions, device selection, tool selection"
 ---
 <!-- outline-start -->
-How we can build a Mobile test Strategy to cover all possible aspects of mobile devices specific conditions, device selection, tool selection
+> How we can build a Mobile test Strategy to cover all possible aspects of mobile devices specific conditions, device selection, tool selection
 <!-- outline-end -->
 
 ## Why Test Strategy is important ?
