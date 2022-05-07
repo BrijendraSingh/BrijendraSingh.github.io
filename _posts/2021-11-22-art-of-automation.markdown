@@ -7,18 +7,20 @@ img: ":post_pic_art_automation.jpg"
 date: 2021-11-22 08:11:06 +0900
 meta_description: "meta TBU"
 ---
-## THE BALANCING ACT
+> We can not test everything and we should not try to test everything documented on UI Automation Test layer. There are varieties of test layers are available where documented tests can be divided. This will help us reduce execution and and increase fast feedback with positive side effect of shift left.
+
+### The Balancing Act
 <img width="832" alt="Screenshot 2022-05-06 at 4 56 04 PM" src="https://user-images.githubusercontent.com/19272137/167125160-f6893b22-2ae1-49f1-abb4-1ebf83e83134.png">
 
 tbu: 
 
 
-## Cost of Defect
+### Cost of Defect
 <img width="737" alt="Screenshot 2022-05-06 at 5 02 50 PM" src="https://user-images.githubusercontent.com/19272137/167125231-ea2eddd0-6c7b-4885-b630-b4f29d08aa9e.png">
 
 tbu: 
 
-## Test Pyramid
+### Test Pyramid
 <img width="726" alt="Screenshot 2022-05-06 at 5 12 54 PM" src="https://user-images.githubusercontent.com/19272137/167125315-a1fab0af-5613-47a7-9cc6-7eae663a53b0.png">
 
 tbu:
@@ -50,7 +52,7 @@ tbu:
 - Tests UI interactions on browsers
 - Tests from user’s point of view
 
-## FEATURES OF AN EFFECTIVE AUTOMATION SUITE
+### Feature of an effective automation suite
 - Robustness
 - Speed/Feedback cycle
 - Debugging/Faster analysis of execution
