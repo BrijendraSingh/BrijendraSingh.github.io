@@ -3,7 +3,7 @@ title: Art of Software Automation Testing
 author: Brijendra Singh
 category: test pyramid
 tags: [test pyramid, component test ]
-img: ":post_pic_component_test.jpg"
+img: ":post_pic_art_automation.jpg"
 date: 2022-01-13 08:11:06 +0900
 meta_description: "meta TBU"
 ---
