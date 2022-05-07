@@ -41,6 +41,9 @@ meta_description: "How we can build a Mobile test Strategy to cover all possible
 What is one of the important factor to a project’s success? If you are a QA then your answer would be Testing, right ? but, what are the important things that makes software testing good ? Answer may vary from person to person based on their experience but I think there is one thing that most of us can relate to, that is good Test Data.
 
 <!-- outline-end -->
+<figure>
+	<a href="https://miro.medium.com/max/1400/1*MhWoIZZsqgGaLicg5uPbAw.png"><img src="https://miro.medium.com/max/1400/1*MhWoIZZsqgGaLicg5uPbAw.png"></a>
+</figure>
 
 This simple logic implies that test data is an important factor for project’s success. Everyone related to software industry would agree on this. So if test data preparation is an important, then why do we seldom ignore it until encounter a problem?
 
@@ -59,20 +62,20 @@ Having prod equivalent data volume in lower environment will result
 * more data storage space
 * uncertainty of corner/edge cases or any specific testing scenario requirement.
 * querying data for validation will consume significant time
-* automated test might timeout or take unappreciated longer time due to time consuming run time query execution. {: .notice}
+* automated test might timeout or take unappreciated longer time due to time consuming run time query execution.
 
 #### Data complexity:
 Production equivalent Test data is not simple and straightforward 
 
 * Sometimes the test data is not simple and straightforward. Testers may need to learn new terminologies, patterns, standards in order to understand the flow/use of data.
 * Data might be entangled with multiple sources , tables or schemas , etc.
-* Some scenarios may not even be possible to test in the test environment. In this instance, testers may need to devote a good amount of time to * understand the scenarios and come up with a new and efficient way to prepare the data.{: .notice}
+* Some scenarios may not even be possible to test in the test environment. In this instance, testers may need to devote a good amount of time to * understand the scenarios and come up with a new and efficient way to prepare the data.
 
 #### Data accessibility:
 Test Data access, dependencies on multiple teams consuming it
 
 * Access to data manipulation might be restricted since multiple people, teams can be using it and the tester will not always be able to manipulate the data, as required.
-* QA’s have to manipulate the data in the test database before figuring out what specifically needed to be changed. Significant amount of time is spent on * learning the databases names, table relations, column data, and their correspondence to the application, their properties and constraints.{: .notice}
+* QA’s have to manipulate the data in the test database before figuring out what specifically needed to be changed. Significant amount of time is spent on * learning the databases names, table relations, column data, and their correspondence to the application, their properties and constraints.
 
 #### Inefficient processes:
 Another challenge that Testers may face is dealing with inefficient processes. By challenging the client’s current process and introducing a new, more * efficient model, team should be able to produce a quicker way for testers to fill in accurate data.
