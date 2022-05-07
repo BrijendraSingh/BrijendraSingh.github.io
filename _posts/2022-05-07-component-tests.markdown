@@ -11,7 +11,6 @@ meta_description: "meta TBU"
 #published: false
 ---
 ![home-heading](https://user-images.githubusercontent.com/19272137/167252693-6cf22b96-ac75-4c78-829a-c48305bdc177.png){:data-align="center"}
-***
 <!-- outline-start -->
 
 What is one of the important factor to a project’s success? If you are a QA then your answer would be Testing, right ? but, what are the important things that makes software testing good ? Answer may vary from person to person based on their experience but I think there is one thing that most of us can relate to, that is good Test Data.
