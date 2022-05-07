@@ -9,7 +9,7 @@ meta_description: "How we can build a Mobile test Strategy to cover all possible
 ---
 <!-- outline-start -->
 
-What is one of the important factor to a project’s success? If you are a QA then your answer would be Testing, right ? but, what are the important things that makes software testing good ? Answer may vary from person to person based on their experience but I think there is one thing that most of us can relate to, that is good Test Data.
+> What is one of the important factor to a project’s success? If you are a QA then your answer would be Testing, right ? but, what are the important things that makes software testing good ? Answer may vary from person to person based on their experience but I think there is one thing that most of us can relate to, that is good Test Data.
 
 <!-- outline-end -->
 <figure>
