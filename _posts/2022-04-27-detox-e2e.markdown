@@ -1,0 +1,44 @@
+---
+title: Shif left in Mobile App Automation Testing
+author: Brijendra Singh
+category: Mobile
+tags: [test pyramid, component test , detox, mobile automation]
+img: ":post_pic_detox.jpg"
+date: 2022-04-27 08:11:06 +0900
+meta_description: "meta TBU"
+---
+> Do you want to get rid mobile app object inspection and also tired of maintaining 2 versions of locator to deal with ios and android systems? Try out Detox e2e gray box automation solution. Find the details below.
+    
+## Detox Design Principles
+Not
+- WebDriver
+- Black box
+    
+It is
+- Gray box
+- Synchronization with App’s activity.
+- First-class React Native support.
+- Expectations run on the app, not the tester process.
+
+## Automated testing framework by Google
+Espresso
+- Native framework for Android automated testing.
+- Automatic synchronization
+- Simple and lightweight API.
+- Doesn’t require server communication 
+- Espresso allows compiling automated Android UI tests into a separate APK i.e., the test suite will run next to the app on the device.
+
+EarlGray
+- Native iOS UI automation test framework 
+- Automatically synchronizes with the UI, network requests, and various queues.
+- EarlGrey is faster and effective in comparison to XCUITest.
+
+
+## Prerquisite
+$ xcrun simctl list
+$ open -a Simulator --args -CurrentDeviceUDID <UDID>
+
+$ ANDROID_HOME/tools/bin/avdmanager create avd -n <emulatorname> -d pixel --package  "system-images;android-30;google_apis;x86"
+$ ANDROID_HOME/emulator/emulator -verbose @<emulatorname>
+  
+ WIP - Please hold on 
