@@ -22,7 +22,7 @@ date: 2022-05-07 08:11:06 +0900
 # if not specified, date will be used.
 #meta_modify_date: 2022-02-10 08:11:06 +0900
 # check the meta_common_description in _data/lang/[language].yml
-meta_description: "meta description"
+meta_description: "How we can build a Mobile test Strategy to cover all possible aspects of mobile devices specific conditions, device selection, tool selection"
 
 # optional
 # if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
@@ -39,7 +39,7 @@ meta_description: "meta description"
 
 <!-- outline-start -->
 
-This is an example page to display markdown related styles for Mr. Green Jekyll Theme.
+How we can build a Mobile test Strategy to cover all possible aspects of mobile devices specific conditions, device selection, tool selection
 
 <!-- outline-end -->
 
