@@ -36,6 +36,7 @@ meta_description: "How we can build a Mobile test Strategy to cover all possible
 # to disable this page, simply set published: false or delete this file
 #published: false
 ---
+![home-heading](https://user-images.githubusercontent.com/19272137/167252337-8679e9a5-9670-4541-9e22-bac5ca71f358.jpg)
 
 <!-- outline-start -->
 
