@@ -1,6 +1,6 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
-lng_pair: id_Examples
+# lng_pair: id_Examples
 title: Software Quality with Engineered test data
 
 # post specific
