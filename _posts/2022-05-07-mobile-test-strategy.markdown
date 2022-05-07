@@ -166,23 +166,31 @@ Application Specific Conditions
 - How it impacts can be explained with next slide
 
 ## Path to production
-<img width="1318" alt="Screenshot 2022-05-06 at 3 39 16 PM" src="https://user-images.githubusercontent.com/19272137/167112101-1652dbaf-988e-4683-b76a-679c3d03958e.png">
+<figure>
+	<a href="https://user-images.githubusercontent.com/19272137/167112101-1652dbaf-988e-4683-b76a-679c3d03958e.png"><img src="https://user-images.githubusercontent.com/19272137/167112101-1652dbaf-988e-4683-b76a-679c3d03958e.png"></a>
+</figure>
 
 dev-> qa-> uat-> pen testing-> DS approval-> prod sanity-> submission to store-> rollout to customer as in part/full
 
 
 ## Automation Testing
-<img width="940" alt="Screenshot 2022-05-06 at 12 16 08 PM" src="https://user-images.githubusercontent.com/19272137/167080854-6d47b8c9-e058-462b-a563-bfc11c387ace.png">
+<figure>
+	<a href="https://user-images.githubusercontent.com/19272137/167080854-6d47b8c9-e058-462b-a563-bfc11c387ace.png"><img src="https://user-images.githubusercontent.com/19272137/167080854-6d47b8c9-e058-462b-a563-bfc11c387ace.png"></a>
+</figure>
 take advantages of lower level automated tests
 
 
 ## Define test pyramid
-<img width="635" alt="Screenshot 2022-05-06 at 12 17 33 PM" src="https://user-images.githubusercontent.com/19272137/167081022-04defe91-c701-4b28-8a8e-256eaa53f23b.png">
+<figure>
+	<a href="https://user-images.githubusercontent.com/19272137/167081022-04defe91-c701-4b28-8a8e-256eaa53f23b.png"><img src="https://user-images.githubusercontent.com/19272137/167081022-04defe91-c701-4b28-8a8e-256eaa53f23b.png"></a>
+</figure>
 
 decide % distribution of each layer -> it will vary based of project stack characteristics
 
 ## Automation tool and framework selection
-<img width="1282" alt="Screenshot 2022-05-06 at 12 18 22 PM" src="https://user-images.githubusercontent.com/19272137/167081138-60cd467a-5763-45d2-85d6-17813fb7601b.png">
+<figure>
+	<a href="https://user-images.githubusercontent.com/19272137/167081138-60cd467a-5763-45d2-85d6-17813fb7601b.png"><img src="https://user-images.githubusercontent.com/19272137/167081138-60cd467a-5763-45d2-85d6-17813fb7601b.png"></a>
+</figure>
 
 ### How ?
 - List down different mobile test automation options
@@ -190,18 +198,24 @@ decide % distribution of each layer -> it will vary based of project stack chara
 - How to choose the right mobile test automation framework for your testing needs
 - How to leverage the unique benefits of a testing cloud
 - Refer official documentation 
-<img width="575" alt="Screenshot 2022-05-06 at 3 06 06 PM" src="https://user-images.githubusercontent.com/19272137/167106862-201d104e-8b54-4556-9640-a9426c6101f5.png">
+<figure>
+	<a href="https://user-images.githubusercontent.com/19272137/167106862-201d104e-8b54-4556-9640-a9426c6101f5.png"><img src="https://user-images.githubusercontent.com/19272137/167106862-201d104e-8b54-4556-9640-a9426c6101f5.png"></a>
+</figure>
 
 
 ## Try Pugh Matrix comparison
-<img width="1267" alt="Screenshot 2022-05-06 at 12 20 17 PM" src="https://user-images.githubusercontent.com/19272137/167081349-17e2ea21-2fd9-4edb-8fcd-505895c7a090.png">
+<figure>
+	<a href="https://user-images.githubusercontent.com/19272137/167081349-17e2ea21-2fd9-4edb-8fcd-505895c7a090.png"><img src="https://user-images.githubusercontent.com/19272137/167081349-17e2ea21-2fd9-4edb-8fcd-505895c7a090.png"></a>
+</figure>
 
 ## Be aware of
 Number of choices increases due to:
 * Available list of tools/frameworks - Democratization of source code led to development of tools with similar features but subtle differences
 * Team constraints/preferences
 * Client requirements
-<img width="957" alt="Screenshot 2022-05-06 at 1 41 54 PM" src="https://user-images.githubusercontent.com/19272137/167093649-dc48b735-3d8f-4a3f-9d6e-1cc56e67cdf1.png">
+<figure>
+	<a href="https://user-images.githubusercontent.com/19272137/167093649-dc48b735-3d8f-4a3f-9d6e-1cc56e67cdf1.png"><img src="https://user-images.githubusercontent.com/19272137/167093649-dc48b735-3d8f-4a3f-9d6e-1cc56e67cdf1.png"></a>
+</figure>
 
 
 ## Identify your risk
@@ -209,7 +223,9 @@ Number of choices increases due to:
 - Risk based approach to determine testing automation priority
 - You can determine risk/priority of each thing you want to test
 - Consider making RAID matrix
-<img width="1297" alt="Screenshot 2022-05-06 at 3 14 36 PM" src="https://user-images.githubusercontent.com/19272137/167108106-927de03d-096c-40f4-ab40-261200d913c2.png">
+<figure>
+	<a href="https://user-images.githubusercontent.com/19272137/167108106-927de03d-096c-40f4-ab40-261200d913c2.png"><img src="https://user-images.githubusercontent.com/19272137/167108106-927de03d-096c-40f4-ab40-261200d913c2.png"></a>
+</figure>
 
 * A key part of any test automation strategy is knowing what to test first and what to test last. 
 * You should use a risk-based approach to determine this testing automation priority. 
