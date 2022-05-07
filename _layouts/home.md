@@ -19,7 +19,7 @@ layout: default
     </div>
   </div>
   <div class="home-intro-text">
-    {{ content }}
+     <p>Let me know if you like reading about software quality by commenting on the blogs. Your opnion and suggestions matters a lot.</p>
   </div>
 </div>
 
