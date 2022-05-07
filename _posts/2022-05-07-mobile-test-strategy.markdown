@@ -75,7 +75,9 @@ understanding business behind the app, stakholders mindset and technical feasibi
 - Architecture ? 
 
 ### RACI matrix
-<img width="1081" alt="Screenshot 2022-05-06 at 2 35 28 PM" src="https://user-images.githubusercontent.com/19272137/167105977-6bb1ddcd-ba8a-4098-913d-abebe837dd5a.png">
+<figure>
+	<a href="https://user-images.githubusercontent.com/19272137/167105977-6bb1ddcd-ba8a-4098-913d-abebe837dd5a.png"><img src="https://user-images.githubusercontent.com/19272137/167105977-6bb1ddcd-ba8a-4098-913d-abebe837dd5a.png"></a>
+</figure>
 
 tbu - RACI details
 
@@ -85,7 +87,9 @@ tbu - RACI details
 * What is the risk appetite of the client in case of a calamity in production?
 
 ## Identify your app
-<img width="1125" alt="Screenshot 2022-05-06 at 3 16 44 PM" src="https://user-images.githubusercontent.com/19272137/167109144-bbaf06a8-8224-420e-9ca4-2dd8b48660de.png">
+<figure>
+	<a href="https://user-images.githubusercontent.com/19272137/167109144-bbaf06a8-8224-420e-9ca4-2dd8b48660de.png"><img src="https://user-images.githubusercontent.com/19272137/167109144-bbaf06a8-8224-420e-9ca4-2dd8b48660de.png"></a>
+</figure>
 
 * **Native mobile apps (i.e., downloadable apps)** are smartphone apps specifically designed for a particular operating system—iOS or Android. They are written in cross-platform frameworks like React Native or platform-specific languages such as Swift or Objective-C (for iOS) or Java or Kotlin (for Android). Native apps are installed on a device. They are built using an operating system’s SDKs and have access to different resources on a device: camera, GPS, phone, device storage, etc.
 * **Web mobile apps** are websites optimized for mobile browsers. Their functionality resides entirely on a server. They are written in JavaScript and HTML5.
@@ -93,7 +97,10 @@ tbu - RACI details
 * **Progressive web apps (PWAs)** are web applications designed to work on any standards-compliant web browser on both desktop and mobile devices. They are written in JavaScript, HTML, and CSS. They function like native mobile apps in that they use an app shell that allows for app-style gestures and navigations.
 
 ## Target Platform
-<img width="930" alt="Screenshot 2022-05-06 at 12 08 13 PM" src="https://user-images.githubusercontent.com/19272137/167079894-b69e9e2c-b49c-4a1b-a24a-a4df4687f2a4.png">
+<figure>
+	<a href="https://user-images.githubusercontent.com/19272137/167079894-b69e9e2c-b49c-4a1b-a24a-a4df4687f2a4.png"><img src="https://user-images.githubusercontent.com/19272137/167079894-b69e9e2c-b49c-4a1b-a24a-a4df4687f2a4.png"></a>
+</figure>
+
 - What analysis should help
 - External factors to cover
 - Apple guidelines
@@ -101,21 +108,27 @@ tbu - RACI details
 - How we did the research
 
 ## Device Selection for testing
-<img width="997" alt="Screenshot 2022-05-06 at 3 00 38 PM" src="https://user-images.githubusercontent.com/19272137/167106080-7e5adae0-a918-4779-8a84-e25f384efdb5.png">
+<figure>
+	<a href="https://user-images.githubusercontent.com/19272137/167106080-7e5adae0-a918-4779-8a84-e25f384efdb5.png"><img src="https://user-images.githubusercontent.com/19272137/167106080-7e5adae0-a918-4779-8a84-e25f384efdb5.png"></a>
+</figure>
 
 - What hardware/software combination to make
 - virtual/real device or cloud?
 - Fat finger issues
 
 ## Custom Settings
-<img width="760" alt="Screenshot 2022-05-06 at 12 11 15 PM" src="https://user-images.githubusercontent.com/19272137/167080181-3a095a46-7301-45ac-853c-4a54eaed63b3.png">
+<figure>
+	<a href="https://user-images.githubusercontent.com/19272137/167080181-3a095a46-7301-45ac-853c-4a54eaed63b3.png"><img src="https://user-images.githubusercontent.com/19272137/167080181-3a095a46-7301-45ac-853c-4a54eaed63b3.png"></a>
+</figure>
 - Why custom settings and what all are important
 - Do you need it? based on user support you can define 
 - examples
 
 
 ## Interruptions 
-<img width="1094" alt="Screenshot 2022-05-06 at 12 12 52 PM" src="https://user-images.githubusercontent.com/19272137/167080432-3aa17414-60ae-4ea9-b13e-3b1f0329d820.png">
+<figure>
+	<a href="https://user-images.githubusercontent.com/19272137/167080432-3aa17414-60ae-4ea9-b13e-3b1f0329d820.png"><img src="https://user-images.githubusercontent.com/19272137/167080432-3aa17414-60ae-4ea9-b13e-3b1f0329d820.png"></a>
+</figure>
 
 - Real time usage -> how can app get impacted
 - 2G/3G financial transactions -> emergency app usage
@@ -145,7 +158,9 @@ Application Specific Conditions
 {: .notice}
 
 ## Testing type
-<img width="679" alt="Screenshot 2022-05-06 at 2 42 42 PM" src="https://user-images.githubusercontent.com/19272137/167106187-f84231b7-76f1-4d80-b750-a40ca0f33ba0.png">
+<figure>
+	<a href="https://user-images.githubusercontent.com/19272137/167106187-f84231b7-76f1-4d80-b750-a40ca0f33ba0.png"><img src="https://user-images.githubusercontent.com/19272137/167106187-f84231b7-76f1-4d80-b750-a40ca0f33ba0.png"></a>
+</figure>
 
 - What all testing types can be applied to
 - How it impacts can be explained with next slide
