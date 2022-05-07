@@ -70,14 +70,6 @@ Another challenge that Testers may face is dealing with inefficient processes. B
 - our first thought was to reduce the execution time for → aggregation/batch processing (faster feedback) → quick sql query execution (faster manual and automated test feedback)
 - client was migrating to cloud so data store space cost was also being considered
 
-Taking an Iterative approach would make data reduction process a little more easier. It will also help us build confidence on reduced test data reliability to suffice QA and automation testing needs. Below are the Major steps we took in order to start the data reduction.{: .notice}
-
-![image](https://user-images.githubusercontent.com/19272137/167003989-60ba7605-f6e0-43ad-ab70-0b36d1b0d59f.png)
-
-
-
-- client was migrating to cloud so data store space cost was also being considered
-
 > Taking an Iterative approach would make data reduction process a little more easier. It will also help us build confidence on reduced test data reliability to suffice QA and automation testing needs. Below are the Major steps we took in order to start the data reduction.
 
 ![Iterative approach](https://miro.medium.com/max/1400/1*j08S3dh4D0-tG5PcHaqmsg.png)
