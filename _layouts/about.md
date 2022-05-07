@@ -45,7 +45,7 @@ layout: default
   <div class="row">
     <div class="col-md-12">
       <div class="about-msg">
-        {{ content }}
+        <p>Let me know if you like reading about software quality by commenting on the blogs. Your opnion and suggestions matters a lot.</p>
       </div>
     </div>
   </div>
