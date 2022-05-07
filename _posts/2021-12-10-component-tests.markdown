@@ -6,16 +6,10 @@ tags: [test pyramid, component test ]
 img: ":post_pic_component_test.jpg"
 date: 2021-12-10 08:11:06 +0900
 meta_description: "meta TBU"
-
-# to disable this page, simply set published: false or delete this file
-#published: false
 ---
 <!-- outline-start -->
-
-What is one of the important factor to a project’s success? If you are a QA then your answer would be Testing, right ? but, what are the important things that makes software testing good ? Answer may vary from person to person based on their experience but I think there is one thing that most of us can relate to, that is good Test Data.
-
+> `Component Testing` is an approach where we divide the automated test in applicable layer and target specific responsibilty of various components to reduce software components `interdependencies`, `time` and logic `complexcity`.
 <!-- outline-end -->
-`Component Testing` is an approach where we divide the automated test in applicable layer and target specific responsibilty of various components to reduce software components `interdependencies`, `time` and logic `complexcity`.
 
 This can be beter understood with Test Pyramid approach.
 <figure>
