@@ -2,7 +2,7 @@
 title: Practicle Mobile Test Strategy
 author: Mr. Brijendra Singh
 tags: [mobile test strategy, mobile testing, automation ]
-img: ":post_pic1.jpg"
+img: ":post_pic_mobile_strategy.jpg"
 date: 2022-05-07 08:11:06 +0900
 meta_description: "How we can build a Mobile test Strategy to cover all possible aspects of mobile devices specific conditions, device selection, tool selection"
 ---
