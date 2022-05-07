@@ -7,11 +7,12 @@
 {%- include post_common/post-info-data.liquid date = include.post.date url=include.post.url title = include.post.title content = include.post.content comment_off = include.post.comments_disable -%}
 
 <div class="multipurpose-container post-container">
-  <div class="post-title">{{ page_title }}</div>
-  {%- include post_common/post-info-html.html date=post_date read_time=read_time url=post_url comment_style = comment_style -%}
-    <center>
+      <center>
       <img alt="Mr Brij Blog" src="https://user-images.githubusercontent.com/19272137/167256017-c0813002-17dc-4858-8d6d-78fa928a3595.png" class="center">
     </center>  
+  <hr/>
+  <div class="post-title">{{ page_title }}</div>
+  {%- include post_common/post-info-html.html date=post_date read_time=read_time url=post_url comment_style = comment_style -%} 
   <hr/>
   <div class="markdown-style">
     {{ include.post.content }}
