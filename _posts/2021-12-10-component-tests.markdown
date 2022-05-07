@@ -4,7 +4,7 @@ author: Brijendra Singh
 category: test pyramid
 tags: [test pyramid, component test ]
 img: ":post_pic_component_test.jpg"
-date: 2022-05-07 08:11:06 +0900
+date: 2021-12-10 08:11:06 +0900
 meta_description: "meta TBU"
 
 # to disable this page, simply set published: false or delete this file
