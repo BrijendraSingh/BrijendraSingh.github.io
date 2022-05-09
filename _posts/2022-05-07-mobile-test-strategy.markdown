@@ -1,5 +1,5 @@
 ---
-title: Practicle Mobile Test Strategy
+title: How to build Test Strategy for Mobile Applications
 author: Mr. Brijendra Singh
 category: test strategy
 tags: [mobile test strategy, mobile testing, mobile automation ]
