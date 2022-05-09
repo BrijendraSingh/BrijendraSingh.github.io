@@ -175,6 +175,17 @@ decide % distribution of each layer -> it will vary based of project stack chara
 <figure>
 	<a href="https://user-images.githubusercontent.com/19272137/167081349-17e2ea21-2fd9-4edb-8fcd-505895c7a090.png"><img src="https://user-images.githubusercontent.com/19272137/167081349-17e2ea21-2fd9-4edb-8fcd-505895c7a090.png"></a>
 </figure>
+The Pugh Matrix is a decision-making tool to compare multiple alternatives. The steps that you will take to create your Pugh Matrix are:
+
+- Define your evaluation criteria. What are the most important and desired characteristics of your solution?
+- Weight your evaluation criteria as to the relative importance of each.
+- Define your different improvement alternatives and optional approaches.
+- Select a “BASELINE” from the alternatives, which will typically be your current state.
+- For each criteria, rate each alternative as better, same, or worse than your baseline. You can use a simple + for better, s for same, and – for worse.
+- Total the count of each.
+- Select your best alternative.
+- Explore whether an even more optimal solution might exist by creating a hybrid of the best from various alternatives.
+Read more on: https://www.isixsigma.com/dictionary/pugh-matrix/
 
 ## Be aware of
 Number of choices increases due to:
