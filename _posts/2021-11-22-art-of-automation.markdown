@@ -1,5 +1,5 @@
 ---
-title: Art of Software Automation Testing
+title: Understanding Automation Test Layers
 author: Brijendra Singh
 category: test pyramid
 tags: [test pyramid, component test ]
