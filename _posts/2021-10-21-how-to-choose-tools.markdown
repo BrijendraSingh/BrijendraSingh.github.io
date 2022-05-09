@@ -45,8 +45,20 @@ Number of choices increases due to:
 
 
 ## PUGH MATRIX
+The Pugh Matrix is a decision-making tool to compare multiple alternatives. The steps that you will take to create your Pugh Matrix are:
+
+- Define your evaluation criteria. What are the most important and desired characteristics of your solution?
+- Weight your evaluation criteria as to the relative importance of each.
+- Define your different improvement alternatives and optional approaches.
+- Select a “BASELINE” from the alternatives, which will typically be your current state.
+- For each criteria, rate each alternative as better, same, or worse than your baseline. You can use a simple + for better, s for same, and – for worse.
+- Total the count of each.
+- Select your best alternative.
+- Explore whether an even more optimal solution might exist by creating a hybrid of the best from various alternatives.
+
 PUGH MATRIX FOR TEAM - A
 <img width="873" alt="Screenshot 2022-05-06 at 12 34 50 PM" src="https://user-images.githubusercontent.com/19272137/167083505-80f11647-04f1-4e6f-91e0-84c9fb333175.png">
 
 PUGH MATRIX FOR TEAM - B
 <img width="865" alt="Screenshot 2022-05-06 at 12 34 59 PM" src="https://user-images.githubusercontent.com/19272137/167083524-81e6dd94-5edf-4890-86ac-477840edb128.png">
+for more details : https://www.isixsigma.com/dictionary/pugh-matrix/
