@@ -24,11 +24,10 @@ we should avoid some anti patterns while building test strategy
 
 **Do you see a problem in this approach ?** 
 Earlier stated approach may not be directly applicable to your project.
-As your app may have specific need , function and target user
-{: .notice}
+As your app may have specific need, function and target user
 
 ## Your app may have unique requirements
-understanding business behind the app, stakholders mindset and technical feasibilty is important.
+understanding business behind the app, stakholders mindset and proposed technical arcitecture is important.
 
 ## You should seek answer to these questions first
 - Who are the various stakeholders on who quality would be dependent?
@@ -40,14 +39,19 @@ understanding business behind the app, stakholders mindset and technical feasibi
 - What are the Legal requirements ?
 - Failure points ?
 - What would happen if quality is not maintained ?
-- Architecture ? 
+- Tech Architecture ? 
 
 ### RACI matrix
+RACI Matrix is a table that lists all stakeholders on a project and their level involvement in each task. This assists with reducing confusion on expectations, in turn, increasing project efficiency and improving deliverables and also helps in reducing risk.
 <figure>
 	<a href="https://user-images.githubusercontent.com/19272137/167105977-6bb1ddcd-ba8a-4098-913d-abebe837dd5a.png"><img src="https://user-images.githubusercontent.com/19272137/167105977-6bb1ddcd-ba8a-4098-913d-abebe837dd5a.png"></a>
 </figure>
+**Responsible:** The person who does the work to achieve the task. As a rule, this is one person; examples might be a business analyst, application developer or technical architect. They have responsibility for getting the work done or decisions made.
+**Accountable:** The person who is responsible for the correct and thorough completion of the task. This role must be one person and is often the project executive or project sponsor. This role is in the role that responsible is accountable to and approves their work.
+**Consulted:** The people who provide information for the project and with whom there is two-way communication. This role is usually several people, often subject matter experts.
+**Informed:** The people kept informed of progress and with whom there is one-way communication. These are people affected by the outcome of the tasks, so they need to be kept up to date.
 
-tbu - RACI details
+
 
 ## Business priorities
 * What is the client most worried about?
@@ -65,15 +69,10 @@ tbu - RACI details
 * **Progressive web apps (PWAs)** are web applications designed to work on any standards-compliant web browser on both desktop and mobile devices. They are written in JavaScript, HTML, and CSS. They function like native mobile apps in that they use an app shell that allows for app-style gestures and navigations.
 
 ## Target Platform
+There are many things to consider like. for which set of devices you want to provide test coverage. This can include Device Model (brand) and possible OS variants. Minimum OS support for specific platform. OS version feature compatibility (some features and effect may behave different for different OS versions)
 <figure>
 	<a href="https://user-images.githubusercontent.com/19272137/167079894-b69e9e2c-b49c-4a1b-a24a-a4df4687f2a4.png"><img src="https://user-images.githubusercontent.com/19272137/167079894-b69e9e2c-b49c-4a1b-a24a-a4df4687f2a4.png"></a>
 </figure>
-
-- What analysis should help
-- External factors to cover
-- Apple guidelines
-- brands/os guidelines or news
-- How we did the research
 
 ## Device Selection for testing
 <figure>
@@ -85,25 +84,21 @@ tbu - RACI details
 - Fat finger issues
 
 ## Custom Settings
+Customs setting are device and OS specific and falls outside the perimeter of application business scope. Testing your app with the possible combination of custom phone/device settings will provide you high confidence to go live. Something that needs to be manually tested.
 <figure>
 	<a href="https://user-images.githubusercontent.com/19272137/167080181-3a095a46-7301-45ac-853c-4a54eaed63b3.png"><img src="https://user-images.githubusercontent.com/19272137/167080181-3a095a46-7301-45ac-853c-4a54eaed63b3.png"></a>
 </figure>
-- Why custom settings and what all are important
-- Do you need it? based on user support you can define 
-- examples
 
 
 ## Interruptions 
+Interruptions are the key features of the mobile device and should not be hampered by application under test. Interruptions should not be the reason for your app to misbehave in certain circumstances too. Something that needs to be manually tested.
 <figure>
 	<a href="https://user-images.githubusercontent.com/19272137/167080432-3aa17414-60ae-4ea9-b13e-3b1f0329d820.png"><img src="https://user-images.githubusercontent.com/19272137/167080432-3aa17414-60ae-4ea9-b13e-3b1f0329d820.png"></a>
 </figure>
 
-- Real time usage -> how can app get impacted
-- 2G/3G financial transactions -> emergency app usage
-- Educational backgrounds-> financial transactions
 
 ## Specific conditions
-Device specific conditions
+_**Device specific conditions**_
 * Memory consumption
 * Power utilization
 * Network connectivity
@@ -116,51 +111,50 @@ Device specific conditions
 * Location
 
 
-Application Specific Conditions
+_**Application Specific Conditions**_
 - Installation
 - Uninstallation
 - Update
 - Backward compatibility
 - App launch
 - App data
-{: .notice}
 
 ## Testing type
+Based on your application and use case you may need to pick and prioritise the type of testing needed to be covered for smooth prod deployment confidence.
 <figure>
 	<a href="https://user-images.githubusercontent.com/19272137/167106187-f84231b7-76f1-4d80-b750-a40ca0f33ba0.png"><img src="https://user-images.githubusercontent.com/19272137/167106187-f84231b7-76f1-4d80-b750-a40ca0f33ba0.png"></a>
 </figure>
 
-- What all testing types can be applied to
-- How it impacts can be explained with next slide
 
 ## Path to production
+CI/CD pipeline looks a little bit different from regular web based applications. as it may involve app artefact generation. app store certification and Apple app store and Google play store integration before app can be made available to users for download with rollout plan. And not forgetting the needs of all required quality checks on each layer and stages. 
+
 <figure>
 	<a href="https://user-images.githubusercontent.com/19272137/167112101-1652dbaf-988e-4683-b76a-679c3d03958e.png"><img src="https://user-images.githubusercontent.com/19272137/167112101-1652dbaf-988e-4683-b76a-679c3d03958e.png"></a>
 </figure>
 
-dev-> qa-> uat-> pen testing-> DS approval-> prod sanity-> submission to store-> rollout to customer as in part/full
-
 
 ## Automation Testing
+What and where we can automation? shall we consider below tests for our automation ?
+The answer is `yes`, we should consider all available test layers for automation testing.
 <figure>
 	<a href="https://user-images.githubusercontent.com/19272137/167080854-6d47b8c9-e058-462b-a563-bfc11c387ace.png"><img src="https://user-images.githubusercontent.com/19272137/167080854-6d47b8c9-e058-462b-a563-bfc11c387ace.png"></a>
 </figure>
 take advantages of lower level automated tests
 
-
 ## Define test pyramid
+Decide % distribution of tests in each layer -> it will vary based of project stack characteristics however the overall test volume and its division will form a pyramid structure. 
 <figure>
 	<a href="https://user-images.githubusercontent.com/19272137/167081022-04defe91-c701-4b28-8a8e-256eaa53f23b.png"><img src="https://user-images.githubusercontent.com/19272137/167081022-04defe91-c701-4b28-8a8e-256eaa53f23b.png"></a>
 </figure>
 
-decide % distribution of each layer -> it will vary based of project stack characteristics
-
 ## Automation tool and framework selection
+There are lot of tools available in the market providing similar functionalities. How one should take a decision ?
 <figure>
 	<a href="https://user-images.githubusercontent.com/19272137/167081138-60cd467a-5763-45d2-85d6-17813fb7601b.png"><img src="https://user-images.githubusercontent.com/19272137/167081138-60cd467a-5763-45d2-85d6-17813fb7601b.png"></a>
 </figure>
 
-### How ?
+### Below points can help 
 - List down different mobile test automation options
 - Advantages and disadvantages of cross-platform v/s native frameworks
 - How to choose the right mobile test automation framework for your testing needs
@@ -214,5 +208,7 @@ Number of choices increases due to:
 {: .notice}
 
 ## Importance of Manual Exploratory Testing
-tbu 
+Never forget Manual Exploratory testing has its own spacial place and it can not be overlooked and avoided.
+
+Happy Testing :)
 
