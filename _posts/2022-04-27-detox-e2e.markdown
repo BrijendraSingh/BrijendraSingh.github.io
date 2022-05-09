@@ -6,6 +6,7 @@ tags: [test pyramid, component test , detox, mobile automation]
 img: ":post_pic_detox.jpg"
 date: 2022-04-27 08:11:06 +0900
 meta_description: "meta TBU"
+published: false
 ---
 > Do you want to get rid mobile app object inspection and also tired of maintaining 2 versions of locator to deal with ios and android systems? Try out Detox e2e gray box automation solution. Find the details below.
     
