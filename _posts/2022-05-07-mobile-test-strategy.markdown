@@ -41,7 +41,7 @@ understanding business behind the app, stakholders mindset and proposed technica
 - What would happen if quality is not maintained ?
 - Tech Architecture ? 
 
-### RACI matrix
+#### RACI matrix
 RACI Matrix is a table that lists all stakeholders on a project and their level involvement in each task. This assists with reducing confusion on expectations, in turn, increasing project efficiency and improving deliverables and also helps in reducing risk.
 
 <figure>
