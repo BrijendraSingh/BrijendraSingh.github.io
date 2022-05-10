@@ -166,7 +166,7 @@ There are lot of tools available in the market providing similar functionalities
 - How to leverage the unique benefits of a testing cloud
 - Refer official documentation 
 <figure>
-	<a href="https://user-images.githubusercontent.com/19272137/167106862-201d104e-8b54-4556-9640-a9426c6101f5.png"><img src="https://user-images.githubusercontent.com/19272137/167106862-201d104e-8b54-4556-9640-a9426c6101f5.png"></a>
+	<a href="https://user-images.githubusercontent.com/19272137/167589798-7501bb01-1af7-4ce7-aadd-54f51d9fade3.png"><img src="https://user-images.githubusercontent.com/19272137/167589798-7501bb01-1af7-4ce7-aadd-54f51d9fade3.png"></a>
 </figure>
 
 
