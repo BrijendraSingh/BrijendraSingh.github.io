@@ -43,12 +43,17 @@ understanding business behind the app, stakholders mindset and proposed technica
 
 ### RACI matrix
 RACI Matrix is a table that lists all stakeholders on a project and their level involvement in each task. This assists with reducing confusion on expectations, in turn, increasing project efficiency and improving deliverables and also helps in reducing risk.
+
 <figure>
 	<a href="https://user-images.githubusercontent.com/19272137/167105977-6bb1ddcd-ba8a-4098-913d-abebe837dd5a.png"><img src="https://user-images.githubusercontent.com/19272137/167105977-6bb1ddcd-ba8a-4098-913d-abebe837dd5a.png"></a>
 </figure>
+
 **Responsible:** The person who does the work to achieve the task. As a rule, this is one person; examples might be a business analyst, application developer or technical architect. They have responsibility for getting the work done or decisions made.
+
 **Accountable:** The person who is responsible for the correct and thorough completion of the task. This role must be one person and is often the project executive or project sponsor. This role is in the role that responsible is accountable to and approves their work.
+
 **Consulted:** The people who provide information for the project and with whom there is two-way communication. This role is usually several people, often subject matter experts.
+
 **Informed:** The people kept informed of progress and with whom there is one-way communication. These are people affected by the outcome of the tasks, so they need to be kept up to date.
 
 
