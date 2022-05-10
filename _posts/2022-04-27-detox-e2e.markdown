@@ -8,7 +8,8 @@ date: 2022-04-27 08:11:06 +0900
 meta_description: "meta TBU"
 published: false
 ---
-> Do you want to get rid mobile app object inspection and also tired of maintaining 2 versions of locator to deal with ios and android systems? Try out Detox e2e gray box automation solution. Find the details below.
+> Do you want to get rid mobile app object inspection and also tired of maintaining 2 versions of locators to deal with ios and android systems separately ? Try out Detox e2e gray box automation solution. It will help you shift left and can build a solid defect prevention platform.
+> Detox will help you run test as soon developer make a change in feature and get it validate in close proximity of unit/integration test. yes, you heard right. Detox e2es will run in close proximity of unit/integration tests. 
     
 ## Detox Design Principles
 Not
