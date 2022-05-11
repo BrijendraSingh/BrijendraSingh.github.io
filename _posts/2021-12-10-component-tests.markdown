@@ -1,6 +1,6 @@
 ---
 title: End to End Testing using component strategy
-author: Brijendra Singh
+author: Mr. Brijendra Singh
 category: test pyramid
 tags: [test pyramid, component test ]
 img: ":post_pic_component_test.jpg"
@@ -70,4 +70,7 @@ Lets take an example of login feature. its not a best practice of testing every 
 - This will cut off the UI dependency while validating business logic and hence improving test coverage with minimum execution and less invalid test failures
 
 **System test** 
-So far we have tested application on it varuous component level. System test can be used to test the complete Integration (If posible) front end and backend logic In this layer we should have least numner of automated test covering only the haapy criticle path
+So far we have tested application on it varuous component level. System test can be used to test the complete Integration (If posible) front end and ba
+ckend logic In this layer we should have least numner of automated test covering only the haapy criticle path
+
+> happy testing :)
