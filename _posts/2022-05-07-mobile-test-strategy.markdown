@@ -215,5 +215,5 @@ Number of choices increases due to:
 ## Importance of Manual Exploratory Testing
 Never forget Manual Exploratory testing has its own spacial place and it can not be overlooked and avoided.
 
-Happy Testing :)
+> Happy Testing :)
 
