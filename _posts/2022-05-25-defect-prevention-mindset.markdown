@@ -33,14 +33,15 @@ Considering the above points
 
 Look at the above points a bit more seriously. It may hint you below gaps
 - QAs where not invloved in requirement/feature refinement and consultation: If done so posible requirement defects detected post development might have been solved earlier
-- test pyamid is not effectively followed and edge cases and data criticle scenarios were mised while development. If tests were properly written/validated  on lower layers while developer were working on story. Defects would have prevented.
-- overll development rework and testing rework would have been avoided.
+- test pyamid is not effectively followed. Edge cases and data criticle scenarios were mised. YOU (devs/QAs) should have written/validated tests on lower layers (Unit/Integration). This would reduce defects to be slipped on lator stages.
+- overll development and testing rework would have been avoided.
 
 ## How to focus more on Defect Prevention 
 YOU should perform Quality checks right from the begining of Requirement gathering and refinement. You (QAs) should wear a user hat and shoud consult on how they would imagine a feature to be. What might help them and what may cause a confusion or not enough informations.
 Once feature is well groomed and ACs are finalized its becomes very rare to find any issue related to this on lator stages of development.
 
 YOU along with BA and dev should clear out things and agree on the ACs and tech approach before devs pick up the story for development. YOU can call this check as STORY KICKOFF. 
+
 Next stage for you to be contineously invlved with developers while they are working on the story to ensure they are following the
 - good code quality: code should be clear enough for others so that future modifications can be made easily.
 - code/framework should be capable enough to accomodate any future enhancements 
