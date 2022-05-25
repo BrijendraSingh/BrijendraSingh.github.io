@@ -29,7 +29,7 @@ Considering the above points
 - Development team may have to re-think the feature and rework on Analysis and Development
 - It may be difficult to find the devs who might have developed the feature/story. They might have a new story to work upone.
 - Context sharing will be required by the new developer.
-- whole dev-test cycle will be triggered and tested once the fix is deployed to dev/qa env.
+- whole dev-test cycle will be triggered. 
 
 Look at the above points a bit more seriously. It may hint you below gaps
 - QAs where not invloved in requirement/feature refinement and consultation: If done so posible requirement defects detected post development might have been solved earlier
