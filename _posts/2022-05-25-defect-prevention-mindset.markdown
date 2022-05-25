@@ -9,7 +9,7 @@ meta_description: "meta TBU"
 # published: true
 ---
 > Prevention is better than cure! 
-> lets find out how shifting a QA mindset from defect detection to defect Prevention can help YOUR team achieve goals without testing bottlenecks. 
+> lets find out how shifting a QA mindset from defect detection to defect Prevention can help YOUR team achieve goals without causing testing bottlenecks. 
 
 ## Why to avoid defect detection
 Finding and fixing defects provides software team a boost to go ahead with production release. However, finding defects on lator stage of software development may cause possible changes in timelines and can also cause some compramises with quality.
