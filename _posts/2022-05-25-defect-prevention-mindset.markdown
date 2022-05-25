@@ -8,7 +8,8 @@ date: 2022-05-25 08:11:06 +0900
 meta_description: "meta TBU"
 # published: true
 ---
-> Prevention is better than cure! 
+> `Prevention is better than cure!` 
+> 
 > lets find out how shifting a QA mindset from defect detection to defect Prevention can help YOUR team achieve goals without causing testing bottlenecks. 
 
 ## Why to avoid defect detection
