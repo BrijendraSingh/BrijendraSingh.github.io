@@ -53,7 +53,7 @@ once all satisfied, dev changes are now ready to be deplyed on env and becomes r
 - filter out what really is needed to be part of Automated UI end to end test suites. YOU should not cover everything on this layer.
 - Take laverage of API tests and validate various business use cases in this layer.
 - 
-Now you can try to emagine the confidence level over the feature. QAs effort will be reduced drastically and you will get ample amount of time to break the application on edge cases.
+Now you can try to imagine the confidence level over the feature. QAs effort will be reduced drastically and you will get ample amount of time to break the application on edge cases.
 
 There is one more thing you can try out before regression testing. Before Regression bring up everyone from team and ask them to test application for any possible defects or break it all together. We call it Bug bash and trust me , it will work as wonder to find out issues that would not have been discovered by any other means.
 
