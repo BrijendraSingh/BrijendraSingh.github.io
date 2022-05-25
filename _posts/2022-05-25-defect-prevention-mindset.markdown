@@ -59,8 +59,10 @@ Now you can try to imagine the confidence level over the feature. QAs effort wil
 
 There is one more thing you can try out before regression testing. Before Regression, bring up everyone from the team and ask them to test application for any possible defects or break it all together. We call it Bug bash and trust me , it will work as wonder to find out issues that would not have been discovered by any other means.
 
-These things have helped me and my peers to avoid testing bottlenecks and a lot of teams rework. It also helped us to stick on our timeline and deliver the release on scheduled time. 
+> Its not like Defect detection is all bad and you should stop doing it. I am saying you to focus more on Defect prevention rather than detection. I personally follow the 80-20 split. where 80% of my effort goes to defect preevntation and only 20% to defect detection (exploratory testing and bug bash).
+> These things have helped me and my peers to avoid testing bottlenecks and a lot of teams rework. It also helped us to stick on our timeline and deliver the release on scheduled time. 
 
-What do you think about this? Did this writeup helped you to change your perspective on testing ? 
+
+> What do you think about this? Did this writeup helped you to change your perspective on testing ? 
     
 > Happy Testing :)
