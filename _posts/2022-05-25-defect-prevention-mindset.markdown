@@ -3,7 +3,7 @@ title: QAs are not asked to find defects
 author: Brijendra Singh
 category: Test Strategy
 tags: [test pyramid, component test, test strategy]
-img: ":defect-prevention.jpg"
+img: ":defects-prev.jpg"
 date: 2022-05-25 08:11:06 +0900
 meta_description: "meta TBU"
 # published: true
