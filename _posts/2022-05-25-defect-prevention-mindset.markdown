@@ -21,7 +21,7 @@ Lets recall the SDLC flow.
 > - Testing
 > - Deployment
 
-We will figure out together what wrong may happens ff we go ahead with a mindset of finding defect post feature deployment to dev/QA environment. 
+We will figure out together what may go wrong, if we go ahead with a mindset of finding defects post feature deployment to dev/QA environment. 
 - RCA concluded to be a requirement change
 - Unit/Integration tests were missing or wrongly validated for that module 
 - e2e/Regression suites needs to be updated to accomodate possible fix in feature
