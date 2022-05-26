@@ -1,5 +1,5 @@
 ---
-title: QAs are not asked to find defects
+title: Keys to become an effective QA
 author: Brijendra Singh
 category: Test Strategy
 tags: [test pyramid, component test, test strategy]
