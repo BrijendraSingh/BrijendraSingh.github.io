@@ -3,7 +3,7 @@ title: QAs are now not asked to find defects
 author: Brijendra Singh
 category: Test Strategy
 tags: [test pyramid, component test , microservices, API automation, contract test]
-# img: ":post_pic_micro_test_strategy.jpg"
+img: ":defect-prevention.jpg"
 date: 2022-05-25 08:11:06 +0900
 meta_description: "meta TBU"
 # published: true
@@ -58,6 +58,9 @@ once all satisfied, dev changes are now ready to be deplyed on env and becomes r
 Now you can try to imagine the confidence level over the feature. QAs effort will be reduced drastically and you will get ample amount of time to break the application on edge cases.
 
 There is one more thing you can try out before regression testing. Before Regression, bring up everyone from the team and ask them to test application for any possible defects or break it all together. We call it Bug bash and trust me , it will work as wonder to find out issues that would not have been discovered by any other means.
+
+![defect-prevention](https://user-images.githubusercontent.com/19272137/170416790-9ca64642-d90f-4845-927d-0c2ccec23c68.jpg)
+
 
 > Its not like Defect detection is all bad and you should stop doing it. I am saying you to focus more on Defect prevention rather than detection. I personally follow the 80-20 split. where 80% of my effort goes to defect preevntation and only 20% to defect detection (exploratory testing and bug bash).
 > These things have helped me and my peers to avoid testing bottlenecks and a lot of teams rework. It also helped us to stick on our timeline and deliver the release on scheduled time. 
