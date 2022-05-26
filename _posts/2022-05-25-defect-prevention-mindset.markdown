@@ -13,41 +13,42 @@ meta_description: "meta TBU"
 > lets find out how shifting a QA mindset from defect detection to defect Prevention can help YOUR team achieve goals without causing testing bottlenecks. 
 
 ## Why to avoid defect detection
-Finding and fixing defects provides software team a boost to go ahead with production release. However, finding defects on lator stage of software development may cause possible changes in timelines and can also cause some compramises with quality.
-Lets recall the SDLC flow.
-- Requairement Gathering and Analysis
-- Development
-- Testing
-- Deployment
+Finding and fixing defects provides software team a boost of confidence to go ahead with production release. However, finding defects on lator stages of software development may cause possible changes in timeline. This can also results into a compramise with quality.
 
-If we go ahead with an attitude of finding defect post feature is built and deployd to dev/QA environment. Below things may happen
-- RCA might be concluded as requirement change
-- Unit/Integration tests were missing or wrongly validated for the module 
-- e2e/Regression suites might needs to be updated to accomodate possible fix in feature
+Lets recall the SDLC flow.
+> - Requairement Gathering and Analysis
+> - Development
+> - Testing
+> - Deployment
+
+We will figure out together what wrong may happens ff we go ahead with a mindset of finding defect post feature deployment to dev/QA environment. 
+- RCA concluded to be a requirement change
+- Unit/Integration tests were missing or wrongly validated for that module 
+- e2e/Regression suites needs to be updated to accomodate possible fix in feature
 - Re-testing and small regression around that featrure is required
 
 Considering the above points
 - Development team may have to re-think the feature and rework on Analysis and Development
-- It may be difficult to find the devs who might have developed the feature/story. They might have a new story to work upone.
-- Context sharing will be required by the new developer.
-- whole dev-test cycle will be triggered. 
+- It may be difficult to find the devs who might have developed the feature/story. They might have a new story to work upone. They may also take up some time to switch between the stories and tasks.
+- If new dev signs up for it then context sharing will be required.
+- The same Development-QA cycle will start. 
 
-Look at the above points a bit more seriously. It may hint you below gaps
+I am now looking at those above points a bit more seriously. Few gaps comes to my mind.
 - QAs where not invloved in requirement/feature refinement and consultation: If done so posible requirement defects detected post development might have been solved earlier
-- test pyamid is not effectively followed. Edge cases and data criticle scenarios were mised. YOU (devs/QAs) should have written/validated tests on lower layers (Unit/Integration). This would reduce defects to be slipped on lator stages.
-- overll development and testing rework would have been avoided.
+- `Test pyamid` is not effectively followed. Edge cases and data criticle scenarios were mised. YOU (devs/QAs) should have written/validated tests on  Unit/Integration test layers. This would have reduce defects to be slipped on lator stages of SDLC.
+- Overll development and testing `re-work` would have been avoided.
 
 ## How to focus more on Defect Prevention 
-YOU should perform Quality checks right from the begining of Requirement gathering and refinement. You (QAs) should wear a user hat and shoud consult on how they would imagine a feature to be. What might help them and what may cause a confusion or not enough informations.
-Once feature is well groomed and ACs are finalized its becomes very rare to find any issue related to this on lator stages of development.
+QAs should perform Quality checks right from the `begining` of Requirement gathering and refinement. QAs should wear an `end user` hat and shoud `consult` on how they would imagine a feature to be. What might help them and what may cause a confusion or might not work.
+Once feature is well groomed and ACs are finalized its becomes very rare to find any issue related to this on lator stages of SDLC.
 
-YOU along with BA and dev should clear out things and agree on the ACs and tech approach before devs pick up the story for development. YOU can call this check as STORY KICKOFF. 
+QAs along with BA and dev should clear out things and agree on the ACs and tech approach `before` devs pick up the story for development. YOU can call this check as `STORY KICKOFF`. 
 
-Next stage for you to be contineously invlved with developers while they are working on the story to ensure they are following the
+Next stage for QAs to be `contineously` involved with developers while they are working on the story to ensure they are following the
 - good code quality: code should be clear enough for others so that future modifications can be made easily.
 - code/framework should be capable enough to accomodate any future enhancements 
-- unit/integration test coverage: YOU should not only focus on code coverage %. Sometimes data permutation and combination on same code can cause issues on feature. 
-- Look for an opportunity where you can pick up the early validation for fast feedback.
+- unit/integration test coverage: QAs should not only focus on code coverage overall %. Sometimes data permutation and combination on same code can cause issues on feature. 
+- Look for an opportunity where you can pick up the `early validation` for fast feedback.
 
 Once dev work is done and ready to be deployed YOU all three (QAs, BAs and Devs) should come together. In this connect you all go through the ACs and validate the feature. Here it becomes very easy to accommodate any feedback and validate the outcome to finalise the decision and approach. You can call this connect as devbox. I have seen people using other names as well like deskcheck and volleyball for this kind of connect and precheck.
 
